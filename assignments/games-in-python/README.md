@@ -19,6 +19,7 @@ Completed program should:
 - Initialize the number of incorrect guesses remaining
 - Display initial game state to the player
 
+
 ### 🛠️ Handle Letter Guesses
 
 #### Description
@@ -30,6 +31,7 @@ Completed program should:
 - Accept letter guesses from the user
 - Show current progress in the format (_ _ _ for unrevealed letters)
 - Track and display incorrect guesses remaining
+
 
 ### 🛠️ Determine Win/Lose Conditions
 
