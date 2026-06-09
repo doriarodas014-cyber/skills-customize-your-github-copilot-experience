@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Learn to build dynamic, interactive web pages using JavaScript. You'll master DOM manipulation, event handling, and user interactions to create engaging web experiences that respond to user actions in real-time.
+Build dynamic, interactive web pages using JavaScript by mastering DOM manipulation, event handling, and real-time user interactions to create engaging web experiences.
 
 ## 📝 Tasks
 
