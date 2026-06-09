@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "interactive-web-pages",
+      "title": "Interactive Web Pages with JavaScript",
+      "description": "Build dynamic, interactive web pages using JavaScript. Learn DOM manipulation, event handling, and create real-time user interactions.",
+      "path": "assignments/interactive-web-pages",
+      "dueDate": "2026-07-31",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.js",
+          "type": "javascript"
+        },
+        {
+          "name": "HTML Template",
+          "file": "index.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
