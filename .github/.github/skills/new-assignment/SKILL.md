@@ -1,4 +1,5 @@
 ---
+---
 name: new-assignment
 description: Create a new programming homework assignment for Mergington High School students. Use this skill whenever the user wants to create, add, scaffold, or generate a new assignment, exercise, or homework — even if they don't use the word "assignment" explicitly.
 ---
